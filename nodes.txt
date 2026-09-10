@@ -1,0 +1,13 @@
+PROTOCOLS = {
+    "Bitcoin": "bitcoin/bitcoin",
+    "Bitcoin-Cash": "bitcoin-cash-node/bitcoin-cash-node",
+    "Cardano": "intersectmbo/cardano-node",
+    "Cardano-Ogmios": "CardanoSolutions/ogmios",
+    "Cardano-Wallet": "cardano-foundation/cardano-wallet",
+    "Ethereum": "ethereum/go-ethereum",
+    "Prysm": "prysmaticlabs/prysm",
+    "Polkadot": "paritytech/polkadot-sdk",
+    "Polkadot-Rest-API": "paritytech/polkadot-rest-api",
+    "Ripple: "ripple/rippled",
+    "Solana": "anza-xya/agave"
+}
